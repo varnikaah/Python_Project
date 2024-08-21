@@ -1,0 +1,1 @@
+The Eye-Controlled Mouse is an innovative project that uses computer vision and machine learning techniques to allow users to control their computer's mouse cursor using eye movements. This project leverages a webcam, the Mediapipe library for facial landmark detection, and OpenCV for real-time video processing, enabling hands-free interaction with your computer.
